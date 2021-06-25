@@ -29,14 +29,17 @@ Observe que o json de estados-cidades, está um pouco mais simples! **O foco des
 
 # Execução do Projeto
 
-* Em seu terminal - o que você escolher -  dentro da sua pasta, faça a sequência de instalação: /n
+* Em seu terminal - o que você escolher -  dentro da sua pasta, faça a sequência de instalação: 
 
-** npm init - cria o arquivo packeage.json
-** npm i express - instala os pacotes
-** npm i nodemon - roda o projeto sem a necessidade de reiniciá-lo
-** alterar no packeage.json o start para: nodemon server.js
+** npm init - cria o arquivo packeage.json..
 
-## Programa
+** npm i express - instala os pacotes..
+
+** npm i nodemon - roda o projeto sem a necessidade de reiniciá-lo..
+
+** alterar no packeage.json o start para: nodemon server.js..
+
+# O Programa
 
 * O programa roda na plataforma **Postman** que é uma ferramenta que dá suporte a documentação das requisições
 feitas pela API. 
